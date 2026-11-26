@@ -1,6 +1,6 @@
-# OnePlus7T-NuraOS
+# OnePlus7T-mainline-linux
 
-OnePlus 7T on mainline Linux (postmarketOS) — progress update, 26 Nov 2026
+OnePlus 7T on mainline Linux (NuraOS/postmarketOS) — progress update, 26 Nov 2026
 
 Work in progress, **not a release**. No images, kernels or firmware are published here.
 
