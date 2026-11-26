@@ -7,6 +7,15 @@ Work in progress, **not a release**. No images, kernels or firmware are publishe
 The goal: run the OnePlus 7T (SM8150, "hotdogb") as a real Linux phone on a mainline-based kernel, without Android.
 Plasma Mobile (Qt 6.12) is the UI; Plasma Desktop is installed as an optional second session.
 
+## On the real device
+
+<p>
+<img src="screenshots/device-photo-home.jpg" width="420">
+<img src="screenshots/device-photo-about.jpg" width="420">
+</p>
+
+OnePlus 7T running Plasma Mobile (Qt 6.12, KDE Plasma 6.8.3, Linux 7.0.0-sm8150, 7.2 GiB RAM, Kryo CPU).
+
 ## What works (tested on the device)
 - Display 1080x2400 at 60/90 Hz, touch, GPU (Adreno 640, open source drivers)
 - Wi-Fi (5 GHz) and Bluetooth, USB gadget networking, charging and battery gauge
